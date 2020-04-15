@@ -1,11 +1,21 @@
-.u-section-1 .u-sheet-1 {min-height: 327px}
-.u-section-1 .u-btn-1 {border-style: none; background-image: none; font-weight: 700; align-self: center; margin: 56px auto 0; padding: 20px 19px 20px 18px}
-.u-section-1 .u-text-1 {margin: 30px auto 0}
-.u-section-1 .u-btn-2 {border-style: none; background-image: none; font-weight: 700; margin: 30px auto 56px; padding: 20px 19px 20px 18px} 
+.u-section-1 .u-sheet-1 {min-height: 278px}
+.u-section-1 .u-btn-1 {border-style: none; background-image: none; font-weight: 700; align-self: center; margin: 30px auto 0; padding: 20px 19px 20px 18px}
+.u-section-1 .u-text-1 {background-image: none; font-size: 1.125rem; box-shadow: 0 0 0 0 rgba(0,0,0,0); margin: 30px auto 0}
+.u-section-1 .u-btn-2 {border-style: none; background-image: none; font-weight: 700; margin: 30px auto; padding: 20px 19px 20px 18px} 
 
 @media (max-width: 1199px){ .u-section-1 .u-text-1 {width: auto}
 .u-section-1 .u-btn-2 {height: 65px} }
 
-@media (max-width: 575px){ .u-section-1 .u-btn-1 {margin-top: 45px; margin-left: -40px; margin-right: -40px; padding-right: 9px; padding-left: 8px}
-.u-section-1 .u-text-1 {margin-top: 41px}
-.u-section-1 .u-btn-2 {margin-top: 45px; margin-bottom: 41px; margin-left: 3px; padding-left: 9px; padding-right: 9px} }
+@media (max-width: 575px){ .u-section-1 .u-btn-1 {margin-left: -40px; margin-right: -40px; padding-right: 9px; padding-left: 8px}
+.u-section-1 .u-btn-2 {margin-left: 3px; padding-left: 9px; padding-right: 9px} }.u-section-2 .u-sheet-1 {min-height: 115px}
+.u-section-2 .u-line-1 {height: 3px; transform-origin: right center 0; margin: 0 auto 0 0}
+.u-section-2 .u-text-1 {box-shadow: 0 0 3px 0 rgba(0,0,0,0); width: 680px; margin: 20px auto 0}
+.u-section-2 .u-text-2 {box-shadow: 0 0 3px 0 rgba(0,0,0,0); width: 680px; margin: 0 auto 31px} 
+
+@media (max-width: 1199px){ .u-section-2 .u-line-1 {margin-right: initial; margin-left: initial} }
+
+@media (max-width: 767px){ .u-section-2 .u-text-1 {width: 540px}
+.u-section-2 .u-text-2 {width: 540px} }
+
+@media (max-width: 575px){ .u-section-2 .u-text-1 {width: 340px}
+.u-section-2 .u-text-2 {width: 340px} }
